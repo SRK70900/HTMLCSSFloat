@@ -1,7 +1,7 @@
 # SRK Computer Website
 
 Click on the link below for live preview of the project
-### [AMD Live Preview](https://srk70900float.netlify.app/)
+### [SRK Computer Live Preview](https://srk70900float.netlify.app/)
 
 ### SRK Computer Screenshot 1
 ![SRK70900 Landing Page](https://github.com/SRK70900/HTMLCSSFloat/blob/master/Screenshot%20(8).png)
