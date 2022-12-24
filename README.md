@@ -1,18 +1,18 @@
 # AMD Website
 
 Click on the link below for live preview of the project
-### [Swat PK Live Preview](https://srk70900flexbox.netlify.app/)
+### [AMD Live Preview](https://srk70900flexbox.netlify.app/)
 
-### Swat PK Screenshot 1
+### AMD Screenshot 1
 ![SRK70900 Landing Page](https://github.com/SRK70900/HTMLCSSFlexBox/blob/master/Screenshot%20(4).png)
 
-### Swat PK Screenshot 2
+### AMD Screenshot 2
 ![SRK70900 Landing Page](https://github.com/SRK70900/HTMLCSSFlexBox/blob/master/Screenshot%20(5).png)
 
-### Swat PK Screenshot 3
+### AMD Screenshot 3
 ![SRK70900 Landing Page](https://github.com/SRK70900/HTMLCSSFlexBox/blob/master/Screenshot%20(6).png)
 
-### Swat PK Screenshot 4
+### AMD Screenshot 4
 ![SRK70900 Landing Page](https://github.com/SRK70900/HTMLCSSFlexBox/blob/master/Screenshot%20(7).png)
 
 ## Introduction
