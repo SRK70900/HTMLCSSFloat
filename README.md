@@ -1,19 +1,16 @@
-# AMD Website
+# SRK Computer Website
 
 Click on the link below for live preview of the project
-### [AMD Live Preview](https://srk70900flexbox.netlify.app/)
+### [AMD Live Preview](https://srk70900float.netlify.app/)
 
-### AMD Screenshot 1
-![SRK70900 Landing Page](https://github.com/SRK70900/HTMLCSSFlexBox/blob/master/Screenshot%20(4).png)
+### SRK Computer Screenshot 1
+![SRK70900 Landing Page](https://github.com/SRK70900/HTMLCSSFloat/blob/master/Screenshot%20(8).png)
 
-### AMD Screenshot 2
-![SRK70900 Landing Page](https://github.com/SRK70900/HTMLCSSFlexBox/blob/master/Screenshot%20(5).png)
+### SRK Computer Screenshot 2
+![SRK70900 Landing Page](https://github.com/SRK70900/HTMLCSSFloat/blob/master/Screenshot%20(9).png)
 
-### AMD Screenshot 3
-![SRK70900 Landing Page](https://github.com/SRK70900/HTMLCSSFlexBox/blob/master/Screenshot%20(6).png)
-
-### AMD Screenshot 4
-![SRK70900 Landing Page](https://github.com/SRK70900/HTMLCSSFlexBox/blob/master/Screenshot%20(7).png)
+### SRK Computer Screenshot 3
+![SRK70900 Landing Page](https://github.com/SRK70900/HTMLCSSFloat/blob/master/Screenshot%20(10).png)
 
 ## Introduction
 
