@@ -1,10 +1,19 @@
-# SRK70900 Landing Page
+# Swat PK Website
 
-Click here for
+Click on the link below for live preview of the project
+### [Swat PK Live Preview](https://swatpk.netlify.app/)
 
-### [Live Preview](https://gericht-restaurant.com/)
+### Swat PK Screenshot 1
+![SRK70900 Landing Page](https://github.com/SRK70900/TravelToSwat/blob/master/Screenshot%20(11).png)
 
-![SRK70900 Landing Page](https://i.ibb.co/5jxBKpw/image.png)
+### Swat PK Screenshot 2
+![SRK70900 Landing Page](https://github.com/SRK70900/TravelToSwat/blob/master/Screenshot%20(12).png)
+
+### Swat PK Screenshot 3
+![SRK70900 Landing Page](https://github.com/SRK70900/TravelToSwat/blob/master/Screenshot%20(13).png)
+
+### Swat PK Screenshot 4
+![SRK70900 Landing Page](https://github.com/SRK70900/TravelToSwat/blob/master/Screenshot%20(14).png)
 
 ## Introduction
 
