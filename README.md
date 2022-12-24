@@ -1,19 +1,19 @@
-# Swat PK Website
+# AMD Website
 
 Click on the link below for live preview of the project
-### [Swat PK Live Preview](https://swatpk.netlify.app/)
+### [Swat PK Live Preview](https://srk70900flexbox.netlify.app/)
 
 ### Swat PK Screenshot 1
-![SRK70900 Landing Page](https://github.com/SRK70900/TravelToSwat/blob/master/Screenshot%20(11).png)
+![SRK70900 Landing Page](https://github.com/SRK70900/HTMLCSSFlexBox/blob/master/Screenshot%20(4).png)
 
 ### Swat PK Screenshot 2
-![SRK70900 Landing Page](https://github.com/SRK70900/TravelToSwat/blob/master/Screenshot%20(12).png)
+![SRK70900 Landing Page](https://github.com/SRK70900/HTMLCSSFlexBox/blob/master/Screenshot%20(5).png)
 
 ### Swat PK Screenshot 3
-![SRK70900 Landing Page](https://github.com/SRK70900/TravelToSwat/blob/master/Screenshot%20(13).png)
+![SRK70900 Landing Page](https://github.com/SRK70900/HTMLCSSFlexBox/blob/master/Screenshot%20(6).png)
 
 ### Swat PK Screenshot 4
-![SRK70900 Landing Page](https://github.com/SRK70900/TravelToSwat/blob/master/Screenshot%20(14).png)
+![SRK70900 Landing Page](https://github.com/SRK70900/HTMLCSSFlexBox/blob/master/Screenshot%20(7).png)
 
 ## Introduction
 
